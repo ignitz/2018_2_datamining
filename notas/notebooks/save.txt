@@ -1,0 +1,1 @@
+jupyter nbconvert chap02.ipynb --to slides --post serve
